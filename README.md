@@ -1,2 +1,3 @@
-# Teacher-qualification-certificate-registration
- 教师资格证考试报名，强制非IE浏览器登录
+# 教师资格证考试报名，强制非IE浏览器登录
+ 1.现在浏览器安装tampermonkey插件
+ 2.然后下载安装该脚本即可
